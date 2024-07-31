@@ -1,13 +1,13 @@
 {
   "expo": {
-    "name": "weatherwizard",
-    "slug": "weatherwizard",
+    "name": "WeatherWizard",
+    "slug": "WeatherWizard",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/icon.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -16,12 +16,18 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.thedevpiyush.weatherwizard"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "01b8917e-eac2-4f6e-8132-1b4ad807f793"
+      }
     }
   }
 }

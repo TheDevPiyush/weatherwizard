@@ -1,0 +1,40 @@
+Privacy Policy
+
+Effective Date: [Date]
+
+1. Introduction
+
+Welcome to Weather Wizard ("we," "our," "us"). We are committed to protecting your privacy and ensuring that your personal information is handled with the utmost care. This Privacy Policy explains how we manage and protect your information when you use our mobile application ("App") for weather forecasting.
+
+2. Information We Collect
+
+2.1. No Data Collection
+
+We want to assure you that Weather Wizard does not collect, store, or share any personal data. We do not collect any information about your location, usage, or any other personal details.
+
+3. How We Use Your Information
+
+Since no data is collected, we do not use any personal information. Our App functions solely to provide weather forecasts and requires no user data for its operation.
+
+4. Data Security
+
+While we do not collect any personal information, we implement general security measures to ensure the safe operation of our App. However, please note that no system is entirely secure, and we cannot guarantee absolute security.
+
+5. Your Rights
+
+Since no data is collected, you do not have rights regarding personal data in the context of Weather Wizard. If you have any concerns or questions about our data practices, please feel free to contact us.
+
+6. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time to reflect any changes in our practices. Any updates will be posted within the App or communicated through other channels as appropriate.
+
+7. Contact Us
+
+If you have any questions or concerns about this Privacy Policy, please contact us at:
+
+Weather Wizard
+Developer: TheDevPiyush
+Email: contactpiyushhere@gmail.com
+Address: [Your Contact Address]
+
+Disclaimer: This sample privacy policy is provided for informational purposes and should not be considered legal advice. For compliance with applicable laws and regulations, it is advisable to consult with a legal professional to tailor the policy to your specific needs and legal obligations.
